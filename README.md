@@ -1,2 +1,5 @@
 # hello-world
-Learning about GitHub
+
+My first repository!
+
+Check https://guides.github.com/activities/hello-world/
